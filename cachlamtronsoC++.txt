@@ -1,0 +1,1 @@
+cout << setprecision(6) << fixed << giá trị muốn làm tròn << endl; 
